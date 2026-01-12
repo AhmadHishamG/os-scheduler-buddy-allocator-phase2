@@ -33,7 +33,7 @@ This was a team project for CMP(S)303.
 
 - **Phase 2 (Buddy Memory Allocation + `memory.log` integration):** Ahmad ([GitHub](https://github.com/<your-username>))
 - **Phase 1 (Scheduler core + IPC + base structure):**
-  - Teammate Name 1 ([GitHub](https://github.com/OmarElsherreef))
+  - Teammate Name 1 ([GitHub](https://github.com/OmarElshereef))
   - Teammate Name 2 ([GitHub](https://github.com/AnAs101AlAa))
 
 > Note: This repository is shared for portfolio/learning purposes.
