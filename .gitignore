@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# runtime outputs
+*.log
+*.perf
+
+# editor
+.vscode/
+
+# Windows ADS files copied into WSL
+*Zone.Identifier*
+*:Zone.Identifier*
