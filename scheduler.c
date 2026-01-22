@@ -768,7 +768,7 @@ void run_SJF(int to_sched_msgq_id) {
             Remove_SJF(&running_queue);
             if(running_queue.head == NULL) {
                 activeProcess = 0;
-            
+            }
             finishedProcs++;
 
             PCBEntry *pcb = findPCBentry(pcbtable, freed_pid, process_count);
